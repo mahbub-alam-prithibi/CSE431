@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-//link goes here
+https://youtu.be/qoO8oAKjyWU?si=WmnhO0HD_pUR4be7
 
 Link to the presentation slides:
-//link goes here
+https://docs.google.com/file/d/1GxhT9KxfSZv4grjOA8V50i_SADw-g8T3/edit?usp=docslist_api&filetype=mspresentation
 N.B. - The slides can also be found in this 'submission2' folder.
 
 Paper:
